@@ -1,8 +1,8 @@
+<p align='center'><img src='pic/boarder.png' width=75></p>
+
 ![](pic/main.png)
 
 <h1 align='center'>ПРОЕКТЫ<br>ПО АНАЛИЗУ ДАННЫХ И МАШИННОМУ ОБУЧЕНИЮ</h1>
-
-<p align='center'><img src='pic/boarder.png' width=75></p>
 
 <h3 align='center'><b>Промышленность и производство</b></h3>
 
@@ -10,7 +10,5 @@
 
 - <b>Задача:</b> построить модель машинного обучения, прогнозирующую температуру расплава стали после окончания стадии легирования на основе данных о параметрах проведения процесса легирования
 - <b>Инструменты:</b> pandas, os, re, matplotlib, seaborn, scikit-learn, catboost, lightgbm, xgboost
-
-<p align='center'><img src='pic/boarder.png' width=75></p>
 
 <h3 align='center'>Телекоммуникации</h3>
